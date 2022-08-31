@@ -7,4 +7,5 @@ A script that Display current directory contents.
 A script that creates a directory named my first directory in the /tmp/directory.
 A script to move file betty from /tmp/ to /tmp/ my firsr directory
 A script to Delete the file betty from /tmp/my first directory
-A script to Delete the directory my first directory that is in the /tmp directory.      
+A script to Delete the directory my first directory that is in the /tmp directory.
+A script that changes the working directory to the previous one.       
