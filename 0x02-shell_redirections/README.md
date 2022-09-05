@@ -7,4 +7,5 @@ A script that Display the first 10 lines of /etc/passwd
 A script that displays the third line of the file iacta
 A script that creates a file with a text in it 
 A script tjat duplicate the last line
-A script that deletes everything with .js extensions     
+A script that deletes everything with .js extensions
+A script that counts the dirwctoriws and sub directories in a specified directory      
