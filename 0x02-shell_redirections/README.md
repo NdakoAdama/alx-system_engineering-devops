@@ -10,4 +10,5 @@ A script tjat duplicate the last line
 A script that deletes everything with .js extensions
 A script that counts the dirwctoriws and sub directories in a specified directory
 A script that displays 10 newest file in the current directory
-A script that display any input that appears only onceA script that Display lines containing the pattern “root” from the file 
+A script that display any input that appears only onceA script that Display lines containing the pattern “root” from the file
+A script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd  
