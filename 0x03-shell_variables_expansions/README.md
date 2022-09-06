@@ -6,4 +6,5 @@ A script that list environment variables
 A script that lists all local variables and environment variables, and functions
 A script thst creates a local variale
 A script that creates a global variable
-A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE          
+A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
+A script that prints the result of POWER divided by DIVIDE, followed by a new line.          
