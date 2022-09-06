@@ -19,4 +19,5 @@ A script that Replace all characters A and c from input to Z and e respectively
 A script that Create a script that removes all letters c and C from input
 A script that that reverse its input
 A script that displays all users and their home directories, sorted by users
-A script that finds all empty files and directories in the current directory and all sub-directories       
+A script that finds all empty files and directories in the current directory and all sub-directories
+A script that lists all the files with a .gif extension in the current directory and all its sub-directories.        
