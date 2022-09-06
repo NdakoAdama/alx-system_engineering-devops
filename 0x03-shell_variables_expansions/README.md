@@ -1,2 +1,3 @@
 A script that creates an alias
-A script that prints hello user, where user is the current Linux user  
+A script that prints hello user, where user is the current Linux user
+A script to add /action to the path   
