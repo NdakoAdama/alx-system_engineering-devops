@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script to Start/Stop/Restart a process. Script to be used with manage_my_process
+
+argv1=$1
